@@ -18,3 +18,6 @@ $env:MLFLOW_TRACKING_USERNAME = "ravivarmanr26"
 $env:MLFLOW_TRACKING_URI = "https://dagshub.com/ravivarmanr26/End-to-End-Chest-Cancer-Classification-using-MLflow-DVC.mlflow"
 $env:MLFLOW_TRACKING_USERNAME = "ravivarmanr26"
 $env:MLFLOW_TRACKING_PASSWORD = "3f30f544b7a95e9dd308542cff9c22975d0ea413"
+
+
+654654355488.dkr.ecr.us-east-1.amazonaws.com/chest
